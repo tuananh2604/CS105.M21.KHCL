@@ -1,2 +1,33 @@
 # CS105.M21.KHCL  
-Đồ họa máy tính
+<h1 align="center">ĐỒ HỌA MÁY TÍNH</h1>
+
+<table align="center">
+ <tr>
+  <th>MSSV</th>
+  <th>Họ và tên</th>
+  <th>Github</th>
+  <th>Email</th>
+ </tr>
+ <tr align="center">
+  <td>19521332</td>
+  <td>Lê Thành Đạt</td>
+  <td><a href="https://github.com/ledat1205">ledat1205<a></td>
+  <td><a href="19521332@gmail.uit.edu.vn">19521332@gmail.uit.edu.vn<a></td>
+ </tr>
+ <tr align="center">
+  <td>19521332</td>
+  <td>Vũ Tuấn Anh</td>
+  <td><a href="https://github.com/TuanAnhlewlew">TuanAnhlewlew<a></td>
+  <td><a href="19521228@gmail.uit.edu.vn">19521228@gmail.uit.edu.vn<a></td>
+ </tr>
+ <tr align="center">
+  <td>19520008</td>
+  <td>Cao Tuấn Anh</td>
+  <td><a href="https://github.com/tuananh2604">tuananh2604<a></td>
+  <td><a href="1950008@gmail.uit.edu.vn">1950008@gmail.uit.edu.vn<a></td>
+ </tr>
+</table>
+
+<h3 align="center">CÁC BƯỚC CÀI ĐẶT VÀ CHẠY SOURCE CODE</h3>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
