@@ -28,7 +28,7 @@
  </tr>
 </table>
 
-<h3 align="center">CÁC BƯỚC CÀI ĐẶT VÀ CHẠY SOURCE CODE</h3>
+<h3 align="center">CÁC BƯỚC CÀI ĐẶT VÀ CHẠY SOURCE CODE (PROJECT)</h3>
 <ins>Bước 1:</ins> Cài đặt Visual Studio Code </br>
 <ins>Bước 2:</ins> Cài đặt Live Server extension </br>
 <ins>Bước 3:</ins> Mở thư mục source code bằng VS code  </br>
