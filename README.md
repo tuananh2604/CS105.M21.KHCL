@@ -29,5 +29,9 @@
 </table>
 
 <h3 align="center">CÁC BƯỚC CÀI ĐẶT VÀ CHẠY SOURCE CODE</h3>
+<ins>Bước 1:</ins> Cài đặt Visual Studio Code </br>
+<ins>Bước 2:</ins> Cài đặt Live Server extension </br>
+<ins>Bước 3:</ins> Mở thư mục source code bằng VS code  </br>
+<ins>Bước 4:</ins> Chuột phải chọn index.html trên tab explorer và chọn open with Live Server hoặc mở file index.html và chọn "Go Live" góc phải dưới màn hình. </br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
