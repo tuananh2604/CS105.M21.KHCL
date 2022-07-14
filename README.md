@@ -33,5 +33,5 @@
 <ins>Bước 2:</ins> Cài đặt Live Server extension </br>
 <ins>Bước 3:</ins> Mở thư mục source code bằng VS code  </br>
 <ins>Bước 4:</ins> Chuột phải chọn index.html trên tab explorer và chọn open with Live Server hoặc mở file index.html và chọn "Go Live" góc phải dưới màn hình. </br>
-
+Ngoài ra, cũng có thể xem trực tiếp tại link: https://ledat1205.github.io/cs105-final-project/
 <p align="right">(<a href="#top">back to top</a>)</p>
